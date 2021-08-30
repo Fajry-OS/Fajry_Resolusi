@@ -4,4 +4,4 @@ Fajry Resolusi
 - Mendapatkan sertifikat kompetensi
 - Membeli hadiah ulang tahun mama
 - Membeli hadiah untuk sarah
-- Mendapatkan nilai UTS A
+- Menyelesaikan playlist PHP
