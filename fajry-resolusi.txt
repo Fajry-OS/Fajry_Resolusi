@@ -8,5 +8,8 @@ Fajry Resolusi
 - Dapat membuat database relasi
 
 Rencana Project
+- Membuat web portofolio
+- Membuat web profile company
 - web anime
 - web e-commerce
+
