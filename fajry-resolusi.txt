@@ -5,3 +5,4 @@ Fajry Resolusi
 - Membeli hadiah ulang tahun mama
 - Membeli hadiah untuk sarah
 - Menyelesaikan playlist PHP
+- Dapat membuat database relasi
