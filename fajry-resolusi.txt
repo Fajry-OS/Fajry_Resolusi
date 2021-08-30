@@ -6,3 +6,7 @@ Fajry Resolusi
 - Membeli hadiah untuk sarah
 - Menyelesaikan playlist PHP
 - Dapat membuat database relasi
+
+Rencana Project
+- Membuat web portofolio
+- Membuat web profile company
